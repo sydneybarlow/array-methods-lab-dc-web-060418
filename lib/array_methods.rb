@@ -6,18 +6,18 @@ def using_sort(array)
   array.sort
 end
 
-def using_reverse(array, element)
-  array.reverse(element)
+def using_reverse(array)
+  array.reverse
 end
 
-def using_first(array, element)
-  array.first(element)
+def using_first(array)
+  array.first
 end
 
-def using_last(array, element)
-  array.last(element)
+def using_last(array)
+  array.last
 end
 
-def using_size(array, element)
-  array.size(element)
+def using_size(array)
+  array.size
 end
